@@ -1,0 +1,19 @@
+{
+  "name": "discord-role-assignment-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that assigns a role when a specific emoji is clicked.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
